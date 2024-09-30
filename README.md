@@ -1,22 +1,16 @@
-# README
+# Reproducing the analytical results
 
-This repository contains analysis code for "Common neural choice signals emerge artifactually amidst multiple distinct value signals" as well as links to the included data.
+## Purpose
+Reproducing the computational results in [Froemer et al (2024)](https://www.nature.com/articles/s41562-024-01971-z) ([github](https://github.com/froemero/Common_Neural_Choice_Signals_emerge_artifactually)).
 
-**Code Directories**
+## Members
+- Hu Chuan-Peng (email: hcp4715 AT hotmail DOT com);
+- ...
 
-under construction
-
-
-**Data Repositories**
-
-Study 1: in the works
-
-Study 2: data files for the replication results are included with the scripts for the current study. 
-
-Study 3 (Pisauro et al, 2017): https://openneuro.org/datasets/ds002734/versions/1.0.2
-
-Study 4 (Froemer, Maier, & Abdel Rahman, 2018): https://osf.io/hdxvb/
-
-Study 5 (Steinemann, O'Connell, & Kelly, 2018) - please contact original authors
-
-Study 6 (Boldt, Schiffer, Waszak, & Yeung, 2019) - please contact original authors
+## Roadmap
+- [x] Fork the repository.
+- [x] Figure out which studies to start with: openly available datasets:
+    - Dataset 3: [Pisauro et al, 2017](https://openneuro.org/datasets/ds002734/versions/1.0.2)
+    - Dataset 4: [Froemer et al, 2018](https://osf.io/hdxvb/)
+- [ ] Reproducing the results using the original code ([Julia](https://julialang.org/) and [Matlab](https://www.mathworks.com/products/matlab.html), respectively).
+- [ ] Reproducing the results using python alternative.
