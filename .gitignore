@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.Rproj
+
+# recent downloads
+Pisauro2017/
+Froemer2018_FrontNeurosci/
+osfr_download.r
+AWSCLIV2.pkg
